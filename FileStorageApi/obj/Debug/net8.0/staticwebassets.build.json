@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "i7yteRcknQH8FWL1Jci6HBs5rztA2fOJ3hcSTrA3rK4=",
+  "Source": "FileStorageApi",
+  "BasePath": "_content/FileStorageApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

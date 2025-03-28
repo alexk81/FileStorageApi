@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\working\\woolpert\\Training\\FileStorageApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{006CBEFF-D24F-4761-8D31-BEABC55467F9}|FileStorageApi.Tests\\FileStorageApi.Tests.csproj|c:\\working\\woolpert\\training\\filestorageapi\\filestorageapi.tests\\controllers\\filescontroller.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006CBEFF-D24F-4761-8D31-BEABC55467F9}|FileStorageApi.Tests\\FileStorageApi.Tests.csproj|solutionrelative:filestorageapi.tests\\controllers\\filescontroller.tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|c:\\working\\woolpert\\training\\filestorageapi\\filestorageapi\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|solutionrelative:filestorageapi\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006CBEFF-D24F-4761-8D31-BEABC55467F9}|FileStorageApi.Tests\\FileStorageApi.Tests.csproj|c:\\working\\woolpert\\training\\filestorageapi\\filestorageapi.tests\\helpers\\testablelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006CBEFF-D24F-4761-8D31-BEABC55467F9}|FileStorageApi.Tests\\FileStorageApi.Tests.csproj|solutionrelative:filestorageapi.tests\\helpers\\testablelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|c:\\working\\woolpert\\training\\filestorageapi\\filestorageapi\\services\\filestoragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|solutionrelative:filestorageapi\\services\\filestoragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|c:\\working\\woolpert\\training\\filestorageapi\\filestorageapi\\services\\ifilestoragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|solutionrelative:filestorageapi\\services\\ifilestoragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|c:\\working\\woolpert\\training\\filestorageapi\\filestorageapi\\controllers\\badfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|solutionrelative:filestorageapi\\controllers\\badfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|c:\\working\\woolpert\\training\\filestorageapi\\filestorageapi\\services\\googlebucketsstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|solutionrelative:filestorageapi\\services\\googlebucketsstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|c:\\working\\woolpert\\training\\filestorageapi\\filestorageapi\\services\\awss3storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|solutionrelative:filestorageapi\\services\\awss3storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|c:\\working\\woolpert\\training\\filestorageapi\\filestorageapi\\services\\filesystemstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|solutionrelative:filestorageapi\\services\\filesystemstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|c:\\working\\woolpert\\training\\filestorageapi\\filestorageapi\\services\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|solutionrelative:filestorageapi\\services\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|c:\\working\\woolpert\\training\\filestorageapi\\filestorageapi\\models\\filestorageconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B024C6E-7945-4239-82C5-838850F20024}|FileStorageApi\\FileStorageApi.csproj|solutionrelative:filestorageapi\\models\\filestorageconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilesController.Tests.cs",
+              "DocumentMoniker": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi.Tests\\Controllers\\FilesController.Tests.cs",
+              "RelativeDocumentMoniker": "FileStorageApi.Tests\\Controllers\\FilesController.Tests.cs",
+              "ToolTip": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi.Tests\\Controllers\\FilesController.Tests.cs",
+              "RelativeToolTip": "FileStorageApi.Tests\\Controllers\\FilesController.Tests.cs",
+              "ViewState": "AgIAAI4BAAAAAAAAAAAAAKUBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:45:54.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestableLogger.cs",
+              "DocumentMoniker": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi.Tests\\Helpers\\TestableLogger.cs",
+              "RelativeDocumentMoniker": "FileStorageApi.Tests\\Helpers\\TestableLogger.cs",
+              "ToolTip": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi.Tests\\Helpers\\TestableLogger.cs",
+              "RelativeToolTip": "FileStorageApi.Tests\\Helpers\\TestableLogger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:45:18.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "FileStorageApi\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "FileStorageApi\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:43:17.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileStorageFactory.cs",
+              "DocumentMoniker": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Services\\FileStorageFactory.cs",
+              "RelativeDocumentMoniker": "FileStorageApi\\Services\\FileStorageFactory.cs",
+              "ToolTip": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Services\\FileStorageFactory.cs",
+              "RelativeToolTip": "FileStorageApi\\Services\\FileStorageFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:42:12.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFileStorageFactory.cs",
+              "DocumentMoniker": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Services\\IFileStorageFactory.cs",
+              "RelativeDocumentMoniker": "FileStorageApi\\Services\\IFileStorageFactory.cs",
+              "ToolTip": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Services\\IFileStorageFactory.cs",
+              "RelativeToolTip": "FileStorageApi\\Services\\IFileStorageFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:41:50.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BadFilesController.cs",
+              "DocumentMoniker": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Controllers\\BadFilesController.cs",
+              "RelativeDocumentMoniker": "FileStorageApi\\Controllers\\BadFilesController.cs",
+              "ToolTip": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Controllers\\BadFilesController.cs",
+              "RelativeToolTip": "FileStorageApi\\Controllers\\BadFilesController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:37:16.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileStorageConfig.cs",
+              "DocumentMoniker": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Models\\FileStorageConfig.cs",
+              "RelativeDocumentMoniker": "FileStorageApi\\Models\\FileStorageConfig.cs",
+              "ToolTip": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Models\\FileStorageConfig.cs",
+              "RelativeToolTip": "FileStorageApi\\Models\\FileStorageConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:37:33.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFileStorageService.cs",
+              "DocumentMoniker": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Services\\IFileStorageService.cs",
+              "RelativeDocumentMoniker": "FileStorageApi\\Services\\IFileStorageService.cs",
+              "ToolTip": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Services\\IFileStorageService.cs",
+              "RelativeToolTip": "FileStorageApi\\Services\\IFileStorageService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:25:17.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileSystemStorageService.cs",
+              "DocumentMoniker": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Services\\FileSystemStorageService.cs",
+              "RelativeDocumentMoniker": "FileStorageApi\\Services\\FileSystemStorageService.cs",
+              "ToolTip": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Services\\FileSystemStorageService.cs",
+              "RelativeToolTip": "FileStorageApi\\Services\\FileSystemStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:25:20.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AwsS3StorageService.cs",
+              "DocumentMoniker": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Services\\AwsS3StorageService.cs",
+              "RelativeDocumentMoniker": "FileStorageApi\\Services\\AwsS3StorageService.cs",
+              "ToolTip": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Services\\AwsS3StorageService.cs",
+              "RelativeToolTip": "FileStorageApi\\Services\\AwsS3StorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:25:22.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoogleBucketsStorageService.cs",
+              "DocumentMoniker": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Services\\GoogleBucketsStorageService.cs",
+              "RelativeDocumentMoniker": "FileStorageApi\\Services\\GoogleBucketsStorageService.cs",
+              "ToolTip": "C:\\working\\woolpert\\Training\\FileStorageApi\\FileStorageApi\\Services\\GoogleBucketsStorageService.cs",
+              "RelativeToolTip": "FileStorageApi\\Services\\GoogleBucketsStorageService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:25:24.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

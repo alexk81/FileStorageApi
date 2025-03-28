@@ -1,0 +1,120 @@
+[
+  {
+    "ContainingType": "FileStorageApi.Controllers.BadFilesController",
+    "Method": "GetFile",
+    "RelativePath": "api/BadFiles/{category}/{location}/{fileName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "location",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "BadFilesControllerGetFile"
+  },
+  {
+    "ContainingType": "FileStorageApi.Controllers.BadFilesController",
+    "Method": "SaveFile",
+    "RelativePath": "api/BadFiles/{category}/{location}/{fileName}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "location",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "fileContent",
+        "Type": "System.Byte[]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "BadFilesControllerSaveFile"
+  },
+  {
+    "ContainingType": "FileStorageApi.Controllers.FilesController",
+    "Method": "GetFile",
+    "RelativePath": "api/Files/{category}/{location}/{fileName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "location",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetFile"
+  },
+  {
+    "ContainingType": "FileStorageApi.Controllers.FilesController",
+    "Method": "SaveFile",
+    "RelativePath": "api/Files/{category}/{location}/{fileName}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "location",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "fileName",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "fileContent",
+        "Type": "System.Byte[]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "SaveFile"
+  }
+]
